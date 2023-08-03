@@ -1,4 +1,4 @@
-﻿string[] firstArray = new string[5] { "Hello", "2", "world", ":-)", "qte" };
+﻿string[] firstArray = new string[5] { "Hello", "2", "world", ":-)", "qte", "1245", "RAW" };
 string[] secondArray = new string[firstArray.Length];
 void SecondArray(string[] firstArray, string[] secondArray)
 {
